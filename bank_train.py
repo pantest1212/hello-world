@@ -258,7 +258,7 @@ train2['ab_date_loan'] = train2['after_date_loan']/(train2['before_date_loan']+1
 
 
 
-train2.to_csv('D:/SLaughter_code/python_feature/bank_train.csv',index=None)
+#train2.to_csv('D:/SLaughter_code/python_feature/bank_train.csv',index=None)
 
 
 
